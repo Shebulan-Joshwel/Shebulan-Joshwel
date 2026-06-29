@@ -2,7 +2,7 @@
   <tr>
     <td valign="middle" style="padding-right:24px;">
 
-# ✨ Hi... I'm Shebulan Joshwel ✨
+#  Hola... I'm Shebulan Joshwel 
 
 **I specialize in ML, DL, NLP, CV, and building intelligent AI agents. I work primarily with Python, TensorFlow, PyTorch, and the Hugging Face ecosystem, and I’m experienced in data preprocessing, feature engineering, model training and evaluation, and deploying end‑to‑end pipelines. I enjoy turning messy data into robust models, experimenting with generative models and retrieval workflows, and building practical solutions that combine NLP, vision, and agentic automation to solve real‑world problems.**
 
