@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td valign="middle" style="padding-right:24px;">
+    <td markdown="1" valign="middle" style="padding-right:28px;">
 
 # ✨ Hi... I'm Shebulan Joshwel ✨
 
@@ -12,4 +12,3 @@
     </td>
   </tr>
 </table>
-
