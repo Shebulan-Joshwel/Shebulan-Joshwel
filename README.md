@@ -1,4 +1,4 @@
-<!-- README.md: Top-right small GIF, left-flowing minimal text with "magical" effect -->
+<!-- README.md: Top-right small GIF, left-flowing minimal text with gradient "magical" effect -->
 <div style="display:flex; align-items:flex-start; gap:20px;">
 
   <!-- Left column: minimal text -->
@@ -26,10 +26,7 @@
 
   <!-- Right column: small GIF (top-right) -->
   <div style="flex-shrink:0; display:flex; align-items:flex-start;">
-    <!-- Paste your GIF tag here. Example:
-         <img src="PASTE_YOUR_GIF_URL_HERE" alt="profile gif" width="180" style="border-radius:8px;"/>
-         (Replace PAUSE_YOUR_GIF_URL_HERE with your GIF link)
-    -->
+    <img src="https://github.com/user-attachments/assets/c0b56324-2380-467a-8fc9-6ed2330d0b1c" alt="profile gif" width="160" style="border-radius:8px;"/>
   </div>
 
 </div>
