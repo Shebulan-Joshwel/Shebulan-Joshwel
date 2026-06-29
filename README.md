@@ -1,4 +1,4 @@
-<!-- README.md: Top-right small GIF, left-flowing minimal text with gradient "magical" effect -->
+<!-- README.md: top-right small GIF, left-flowing minimal text with gradient "magical" effect -->
 <div style="display:flex; align-items:flex-start; gap:20px;">
 
   <!-- Left column: minimal text -->
@@ -11,7 +11,7 @@
         -webkit-text-fill-color: transparent;
         font-weight:700;
         font-size:36px;
-        text-shadow: 0 0 8px rgba(122,92,255,0.25), 0 0 18px rgba(255,110,199,0.12);
+        text-shadow: 0 0 10px rgba(122,92,255,0.25), 0 0 22px rgba(255,110,199,0.12);
         display:inline-block;
       ">
         ✨ Hi... I'm Shebulan Joshwel ✨
