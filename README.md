@@ -1,15 +1,19 @@
-<!-- README.md: Text left, GIF top-right, main line with gradient "magical" effect -->
+<!-- README.md: Top-right small GIF, left-flowing text, gradient + glow "magical" heading -->
 <div style="display:flex; align-items:flex-start; gap:20px;">
 
   <!-- Left column: main content -->
   <div style="flex:1; min-width:0;">
 
-<h1>
-  <span style="background: linear-gradient(90deg,#ff6ec7,#7a5cff);
-               -webkit-background-clip: text;
-               -webkit-text-fill-color: transparent;
-               font-weight:700;
-               font-size:36px;">
+<h1 style="margin:0;">
+  <span style="
+    background: linear-gradient(90deg,#ff6ec7,#7a5cff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight:700;
+    font-size:36px;
+    text-shadow: 0 0 8px rgba(122,92,255,0.35), 0 0 18px rgba(255,110,199,0.18);
+    display:inline-block;
+  ">
     ✨ Hi, I'm Shebulan Joshwel ✨
   </span>
 </h1>
